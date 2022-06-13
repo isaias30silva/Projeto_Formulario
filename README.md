@@ -24,13 +24,13 @@
 >
 > :arrow_right:Seu e-mail:
 >
-> Será avaliado se o email inserido contém a estrutura padrão deste tipo de input, ou seja, se contém @ e ., por exemplo.
+> Será avaliado se o email inserido contém a estrutura padrão para este tipo de input, ou seja, se contém @ e ., por exemplo.
 >
 > :arrow_right:Sua senha:
 >
 > O usuário terá de inserir, no mínimo, 4 caracteres neste campo. 
 
-> Após realizar todos essas etapas, basta clicar em "Cadastrar" e a validação do formulário estará concluída. 
+> Após realizar todas essas etapas, basta clicar em "Cadastrar" e a validação do formulário estará concluída. 
 
 ### Link do projeto concluído:
 
