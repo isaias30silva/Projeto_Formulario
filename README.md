@@ -32,6 +32,10 @@
 
 > Após realizar todas essas etapas, basta clicar em "Cadastrar" e a validação do formulário estará concluída. 
 
+<img src = "formulario.png">
+
+
+
 ### Link do projeto concluído:
 
 :link:[Clique aqui e veja o projeto em funcionamento](https://isaias30silva.github.io/Projeto_Formulario/ "Projeto Validador de Formulário")
